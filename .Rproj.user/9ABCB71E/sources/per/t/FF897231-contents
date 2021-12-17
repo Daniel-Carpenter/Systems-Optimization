@@ -1,0 +1,24 @@
+# Problem 1 --------------------------------
+
+  # Matrix A
+  A = matrix(c(1, 2, 2, 
+               2, 1, 3),
+             2, 3,
+             byrow = TRUE)
+  # Print A
+  A
+  
+  # MAtrix B
+  B = matrix(c(1, 1, 
+               2, 3, 
+               4, 2),
+             3, 2,
+             byrow = TRUE)
+  # Print B
+  B
+  
+  # a
+  AB = A %*% B
+  AB
+
+

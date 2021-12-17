@@ -1,0 +1,21 @@
+library(tidyverse)
+library(igraph)
+library(visNetwork)
+library(networkD3)
+library(rpart)
+
+source("C:/Users/daniel.carpenter/OneDrive - the Chickasaw Nation/Documents/GitHub/Coding-Resources/R/Code_Reuse/- Main Source Files.R")
+
+read_file("")
+
+edges <- tibble(from = c(1, 2, 2, 3, 4), to = c(2, 3, 4, 2, 5))
+nodes <- tibble(id = 1:5)
+
+
+visNetwork(nodes, edges, width = "100%") %>% 
+  visEdges(arrows = "from") %>% 
+  visHierarchicalLayout() %>% 
+  visLegend(useGroups = FALSE, addNodes = data.frame(label = "Table", shape = "circle"), 
+            addEdges = data.frame(label = "references", color = "black"))
+
+
