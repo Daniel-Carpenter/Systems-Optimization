@@ -13,9 +13,9 @@
 
 ## Refreshers of the Important Concepts:
 1. [How `Linear Programming` works - conceptual level](https://github.com/Daniel-Carpenter/Systems-Optimization/tree/main/02%20-%20Notes%20and%20Assignments/Week%2003%20-%20Linear%20Prog%20Modeling#week-3---linear-programming)
-2. [How does `sensitivity analysis` work with `dual variables`](https://github.com/Daniel-Carpenter/Systems-Optimization/tree/main/02%20-%20Notes%20and%20Assignments/Week%2008%20-%20Duality%20and%20Sensitivity%20Analysis)
+2. [How does `sensitivity analysis` work with `dual variables`](https://github.com/Daniel-Carpenter/Systems-Optimization/tree/main/02%20-%20Notes%20and%20Assignments/Week%2008%20-%20Duality%20and%20Sensitivity%20Analysis#week-8---9---simplex-algebraically-and-calculating-dualsbetas)
 3. [`Simplex` Tableau Cheat Sheet](https://github.com/Daniel-Carpenter/Systems-Optimization/tree/main/02%20-%20Notes%20and%20Assignments/Week%2004%20-%20Simplex%20Tableau#week-5---simplex-tableau)
-4. [The linear algebra needed for Linear Programming](https://github.com/Daniel-Carpenter/Systems-Optimization/tree/main/02%20-%20Notes%20and%20Assignments)
+4. [The linear algebra needed for Linear Programming](https://github.com/Daniel-Carpenter/Systems-Optimization/tree/main/02%20-%20Notes%20and%20Assignments/Week%2001%20-%20Intro%20%2B%20L%20Alg#linear-algebra)
 
 <br>
 
